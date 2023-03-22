@@ -1,0 +1,84 @@
+.encabezado {
+    width: 96rem;
+    height: 5rem;
+
+    border: 0.01rem solid black;
+}
+
+.tabla {
+    width: 40rem;
+    height: 5rem;
+
+}
+
+.tabla tr td {
+    text-align: right;
+
+}
+.tabla img {
+    height: 3.9rem;
+}
+
+.banner {
+    position: relative;
+    display: inline-block;
+    text-align: center;
+}
+.centrado {
+    color: aliceblue;
+    position: absolute;
+    top: 40%;
+    left: 25%;
+    transform: translate(-50%, -50%);
+}
+
+.centrado table a {
+    height: 1rem;
+    width: 1rem;
+    padding: 1rem 15rem;
+}
+
+
+.banner img {
+    height: 35rem;
+    width: 96rem;
+    
+}
+
+.banner div {
+    width: 30rem;
+
+}
+
+.espacio{
+    height: 1rem;
+    width: 96rem;
+}
+
+.cursos table td {
+
+    width: 20rem;
+
+}
+
+.espacio_2 {
+
+    height: 5rem;
+    width: 96rem;
+}
+
+.final td { 
+
+
+    border: 0.01rem solid black;
+    padding:1rem 96rem;
+    padding-left: 15rem;
+
+}
+
+.lista {
+    padding-left: 5rem;
+    width: 20rem;
+
+}
+
